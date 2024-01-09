@@ -12,3 +12,7 @@ https://andrea7701.github.io/Calculator/
  - ReactJs;
  - Css;
 
+# Contact
+ - Github: https://github.com/Andrea7701;
+ - Linkedin: https://www.linkedin.com/in/andrea-cavallini-263087223;
+
