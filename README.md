@@ -1,6 +1,6 @@
 # ReactJs Calculator
 
-A responsive calculator project built in ReactJs with react-hooks and css
+A calculator project built in ReactJs with react-hooks and css
 
 # Screenshoot
 ![Screenshot 2024-01-09 174512](https://github.com/Andrea7701/Calculator/assets/156012853/4279d91d-7063-4789-a365-a9fd425825f7)
