@@ -9,7 +9,8 @@ A calculator project built in ReactJs with react-hooks and css
 https://andrea7701.github.io/Calculator/
 
 # Built With 
- - ReactJs;
+ - ReactJS;
+ - React Hooks;
  - Css;
 
 # Author
